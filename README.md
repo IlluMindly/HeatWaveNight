@@ -18,7 +18,7 @@ If the temperature of the player is too high or too low, the player dies.
 During the night some creatures make things harder:
 
 * Ice Stealers: they steal the ice from the generator stopping it and the temperature in the house increases
-* Blaze Claw: a terrible monster that will try to kill you with its claws. It will appear during the night. Inside the house there is a ultra cooler machine that if you drop in it an ice cube and push the Cold button, all the house will be extra refigereted and th blaze claw will be returned to the hell. But it will return!
+* Blaze Claw: a terrible monster coming from the hell that will try to kill you with its claws. It will appear during the night. Inside the house there is a ultra cooler machine that if you drop in it an ice cube and push the Cold button, all the house will be extra refigereted and th blaze claw will be returned to the hell. But it will return!
 
 During te game you can win different badges which will you unique accessories and other extra features that will help you during the game.
 
