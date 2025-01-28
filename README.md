@@ -1,4 +1,4 @@
-# HeatWaveNight
+# Heat Wave Night
 
 Heat Wave Night is a Roblox Adventure game with exploration, quests, and immersive storytelling.
 
